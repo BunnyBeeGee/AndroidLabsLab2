@@ -2,4 +2,7 @@
         <string name="app_name">AndroidLabs</string>
         <string name="hello_world">Hello World</string>
         <string name="button_text">I\'m a button!</string>
+        <string name="LinearLayouts">I love Android</string>
+        <string name=”Toast”>Label has been Updated</string>
+        <string name="Snackbar=">the checkbox is now</string>
 </resources>

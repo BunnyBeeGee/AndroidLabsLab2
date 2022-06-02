@@ -2,4 +2,6 @@
 <resources>
     <string name="hello_world">Bonjour le monde</string>
     <string name="button_text">Je suis un bouton!</string>
+    <string name="Toast">etiquette a ete mise a jour</string>
+    <string name="Snackbar">la case a cocher est maintenant</string>
 </resources>
